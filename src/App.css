@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  width: 90%;
+  margin: auto;
 }
 
 .App-logo {
@@ -19,4 +20,13 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+form {
+  width: 50%;
+  margin: auto auto;
+}
+
+.form-control {
+  width: 90%;
 }
